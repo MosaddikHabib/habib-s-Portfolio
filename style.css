@@ -43,3 +43,33 @@ h1 {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.exp-item {
+    box-shadow: 10px 10px 40px rebeccapurple;
+    width: 80%;
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+}
+
+.exp-img {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+
+#full-dev {
+    border-left: 10px solid tomato;
+}
+
+#baby-dev {
+    border-left: 10px solid indigo;
+}
+
+footer p {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
